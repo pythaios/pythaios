@@ -2,7 +2,7 @@
 - 👀 I’m interested in robotics, machine learning and music recognition, particularly in coding Python projects in these areas.
 - 🌱 I’m currently learning about feature engineering and subsequent segementation and classification of multi-modal time series.
 - 💞️ I’m looking to collaborate on manipulation projects in ROS and symbolic object extraction from music files.
-- ⚡ Fun fact: In Greek mythology, Apollo Pythios is the patron diety of Delphi. The dragon defeated by Apollo is later on called Python.
+- ⚡ Fun fact: In Greek mythology, Apollo Pythios is the patron diety of Delphi. The dragon defeated by Apollo is later on called Python. So that's the link between Delphi and Python :-)
 <!--- - 📫 How to reach me --->
 
 <!---
