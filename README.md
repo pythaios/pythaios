@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @pythaios: I borrowed the nickname from Apollo Pythios. In Greek mythology, he is the patron diety of Delphi. I made my first programming steps in Delphi - Borland's Turbo Pascal successor. 
-- 👀 I’m interested in robotics, machine learning and music recognition, particularly in coding python projects in these areas.
+- 👋 Hi, I’m @pythaios: I borrowed my nickname on GitHub from Apollo Pythios. 
+- 👀 I’m interested in robotics, machine learning and music recognition, particularly in coding Python projects in these areas.
 - 🌱 I’m currently learning about feature engineering and subsequent segementation and classification of multi-modal time series.
 - 💞️ I’m looking to collaborate on manipulation projects in ROS (Robot Operating System) and symbolic object extraction from music files.
+- ⚡ Fun fact: In Greek mythology, Apollo Pythios is the patron diety of Delphi. The dragon defeated by Apollo is later called Python.
 <!--- - 📫 How to reach me --->
 
 <!---
